@@ -80,4 +80,7 @@ actualizarImagen() ajusta el tamaño y la rotación de la imagen.
 Primero, se escala la imagen usando zoomActual.
 Luego, llama a rotarImagen() para rotarla según anguloRotacion, y la muestra en labelImagen.
 
+# Video del Componente 
+https://youtu.be/IsbdM2QoDZw?si=Fh8PyJtlpk1OCOph
+
 
